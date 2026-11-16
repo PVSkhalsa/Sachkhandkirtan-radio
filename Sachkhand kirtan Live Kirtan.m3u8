@@ -1,127 +1,987 @@
 #EXTM3U
+#PLAYLIST:Sachkhand Kirtan Radio
+# Updated 2026-11-16 using the supplied Live Kirtan English-name catalog snapshot.
+# Source catalog: http://onlinekirtan.com/return_radio_channels.php?a=livekirtan
+# CREDIT values below reproduce source-supplied attribution only; they are not verified ownership or a reuse license.
+# No rights are granted by inclusion. Stream and artwork rights remain with their respective rights holders.
+# Existing channel URLs are preserved; source alternate URLs are comments, not duplicate playable rows.
+# Availability is controlled by each provider. Playlist syntax checked; continuous playback is not guaranteed.
+
 #EXTINF:-1,Akath Katha Gurudawara Naam Simran Ghar Loharka Road Amritsar Live
+#SOURCE-NAME:Akath Katha
 https://cast1.asurahosting.com/proxy/akath/stream
+
 #EXTINF:-1,Sarab Sanjhi Gurbani 24/7 Berlin Germany Live
+#SOURCE-NAME:Sarab Sanjhi Gurbani 24/7
 https://live.deshpunjab.net:8443/stream
+
 #EXTINF:-1,Ehnis Naad Radio New Delhi India Live
+#SOURCE-NAME:Ehnis Naad Radio
+#ALTERNATE-URL:https://stream-57.zeno.fm/srmephm9bm8uv
 https://stream.zeno.fm/srmephm9bm8uv
+
 #EXTINF:-1,Chardi Kala Union City CA 94587 USA Live
 https://stream.zeno.fm/2bc48vrgnv5tv
+
 #EXTINF:-1,Radio Dhadrianwale 24x7 Bhai Ranjit Singh Ji Khalsa Dhadrianwale Live
+#SOURCE-NAME:Radio Dhadrianwale 24x7
+#ALTERNATE-URL:https://stream-172.zeno.fm/y5y59fwptqruv
 https://stream.zeno.fm/y5y59fwptqruv
+
 #EXTINF:-1,Gurbani Kavishri  24x7 Live
 https://stream.zeno.fm/y6pz5fqzwc9uv
+
 #EXTINF:-1,Sukhmani Sahib 24x7 Live
+#SOURCE-NAME:24x7 Live Sukhmani sahib radio
 https://stream.zeno.fm/k25ew3ym46duv
+
 #EXTINF:-1,Malhans Gurbani Toronto Canada Live
+#SOURCE-NAME:Malhans Gurbani
+#ALTERNATE-URL:http://ample-zeno-15.radiojar.com/yzpgrmgyyp8uv
 https://stream.zeno.fm/yzpgrmgyyp8uv
+
 #EXTINF:-1,Shabad Kirtan gurbani 24x7 Live
 https://stream.zeno.fm/tn3xn4qany8uv
+
 #EXTINF:-1,Mool Mantra 24x7 Live
+#SOURCE-NAME:Mool Mantra 24x7 - NSF
+#ALTERNATE-URL:https://stream-54.zeno.fm/9ex8sg0v91zuv
 https://stream.zeno.fm/9ex8sg0v91zuv
+
 #EXTINF:-1,GS  Radio amritsar Live
 https://stream.zeno.fm/su7sd7zbkgutv
+
 #EXTINF:-1,Darvar sahib UK
 https://s6.autopo.st/proxy/darbarsahibradio_out?mp=/stream
+
 #EXTINF:-1,Jawaddi Taksall
+#SOURCE-NAME:Radio Jawaddi Taksal
 http://akalmultimedia.net:8000/jawadditaksal
+
 #EXTINF:-1,Dukh Bhanjini Sahib
+#SOURCE-NAME:Dukh Bhanjani Sahib
+#ALTERNATE-URL:http://stream.zeno.fm/294tvsb8p98uv
 https://stream.zeno.fm/67rmrsb8p98uv
+
 #EXTINF:-1,Bhai Harjinder Singh Ji sri nagar wale radio
+#SOURCE-NAME:Bhai Harjinder Singh Ji
 https://stream.zeno.fm/fmq5eeece78uv
+
 #EXTINF:-1,Gurbani World
 https://stream.zeno.fm/aagsz1mfd78uv
-#EXTINF:-1,Jap Radio
+
+#EXTINF:-1,Live Gurbani Radio
+#SOURCE-NAME:Live Gurbani Radio
+#SOURCE-NAME:Jap Radio
+#ALTERNATE-URL:http://stream.zenolive.com/r3m0whh0kxquv
 https://stream.zeno.fm/r3m0whh0kxquv
+
 #EXTINF:-1,Radio Dodra Live
 https://s8.voscast.com:8475/stream
+
 #EXTINF:-1,Amritvela trust
 http://usa2.fastcast4u.com:3354/stream
+
 #EXTINF:-1,Sachkhand Sri harmander sahib amritsar punjab
+#CREDIT:©SGPC
+#SOURCE-NAME:Sri Harmandir Sahib (HD-2)
+#ALTERNATE-URL:https://live.sgpc.net:8443/stream/1/
 https://live.sgpc.net:8443/;
+
 #EXTINF:-1,Saadh Sangat Radio
+#CREDIT:radiododra.com
+#SOURCE-NAME:Sadh Sangat Samagams
+#SOURCE-NAME:Radio Dodra 2
+#ALTERNATE-URL:http://usa13.fastcast4u.com:5386/stream?
 http://usa13.fastcast4u.com:5386/stream
+
 #EXTINF:-1,Sachkhand Sri Harimandir Sahib HD
+#CREDIT:©SGPC
+#SOURCE-NAME:Sri Harmandir Sahib (HD-1)
+#SOURCE-NAME:Sri Harmandir Sahib  HD-3
 https://radio.sikhnet.com/proxy/channel9/live
+
 #EXTINF:-1,Gurudwara Dukh Niwaran Sahib Ludhiana
+#SOURCE-NAME:Dukh Niwaran Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8022/live
 https://radio.sikhnet.com/proxy/channel10/live
+
 #EXTINF:-1,Gurudwara Bangla Sahib new Delhi
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurdwara Bangla Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8050/live
 https://radio.sikhnet.com/proxy/gbanglasahib/live
+
 #EXTINF:-1,Dukh Nivaran Sahib Surrey Canada
+#SOURCE-NAME:G: Dukh Nivaran Sahib
+#ALTERNATE-URL:http://162.244.80.52:5294/stream
 https://radio.sikhnet.com/proxy/channel23/live
+
 #EXTINF:-1,Gurudwara Live Fremont USA
+#SOURCE-NAME:Gurdwara Sahib Fremont
+#ALTERNATE-URL:http://s3.voscast.com:7408/
 https://radio.sikhnet.com/proxy/channel13/live
+
 #EXTINF:-1,Gurudwara San Jose USA
+#SOURCE-NAME:Gurdwara San Jose
+#ALTERNATE-URL:http://radio2.sikhnet.com:8031/stream
 https://radio.sikhnet.com/proxy/channel18/live
+
 #EXTINF:-1,Western Singh Sabha Canada
+#CREDIT:Sikhnet
+#SOURCE-NAME:Western Singh Sabha
+#ALTERNATE-URL:https://radio.sikhnet.com/accounts/channel16/live
 https://radio.sikhnet.com/proxy/channel16/live
+
 #EXTINF:-1,Sukh Sagar Canada
+#SOURCE-NAME:G: Sukh Sagar
+#ALTERNATE-URL:http://radio2.sikhnet.com:8023/live
 https://radio.sikhnet.com/proxy/channel11/live
+
 #EXTINF:-1,Hacienda De Guru Ram Das New Maxico USA
+#SOURCE-NAME:Hacienda De Guru Ram Das
+#ALTERNATE-URL:http://radio2.sikhnet.com:8024/live
 https://radio.sikhnet.com/proxy/channel12/live
+
 #EXTINF:-1,Singh Sabha Washington USA
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:G. Singh Sabha Washington
+#ALTERNATE-URL:http://radio2.sikhnet.com:8032/live
 https://radio.sikhnet.com/proxy/channel19/live
+
 #EXTINF:-1,Siri Guru Singh Sabha Derby UK
 https://radio.sikhnet.com/proxy/channel24/live
+
 #EXTINF:-1,Nanak Naam Jahaj New Jersey USA
+#SOURCE-NAME:Gurudwara Nanak Naam Jahaj
+#ALTERNATE-URL:https://radio.sikhnet.com/accounts/channel26/live
 https://radio.sikhnet.com/proxy/channel26/live
+
 #EXTINF:-1,EI Sobrante Calofornia USA
 https://radio.sikhnet.com/proxy/channel27/live
+
 #EXTINF:-1,Stockton Sikh Temple California USA
+#SOURCE-NAME:Stockton Gurdwara Sahib
+#ALTERNATE-URL:http://live.stocktongurdwarasahib.org:8000/audio
 https://radio.sikhnet.com/proxy/channel29/live
+
 #EXTINF:-1,Sri Guru singh Sabha Malton Canada
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:G. Sri Guru Singh Sabha Malton
+#ALTERNATE-URL:http://radio2.sikhnet.com:8039/live
 https://radio.sikhnet.com/proxy/channel30ive
+
 #EXTINF:-1,Gurudwara Sahib West Sacramento Canada
+#SOURCE-NAME:Gurdwara Sahib West Sacramento
+#ALTERNATE-URL:http://ample-04.radiojar.com/65wfczc3kd5tv
 https://radio.sikhnet.com/proxy/wsacramento/live
+
 #EXTINF:-1,Gurudwara Singh Sabha L A
 https://radio.sikhnet.com/proxy/ssbuenapark/live
+
 #EXTINF:-1,Guru Nanak Dwara Arizona USA
 https://radio.sikhnet.com/proxy/gurunanakdwara/live
+
 #EXTINF:-1,All Gurbani Styles radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Mixed Gurbani
+#ALTERNATE-URL:http://radio2.sikhnet.com:8010/stream
 https://radio.sikhnet.com/proxy/channel1/stream_high_autodj
+
 #EXTINF:-1,Western I Non Traditional radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Western - Non Traditional
+#ALTERNATE-URL:http://radio2.sikhnet.com:8012/autodj
 https://radio.sikhnet.com/proxy/channel2/stream_high_autodj
+
 #EXTINF:-1,Classical Raag radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Classical Raag
+#ALTERNATE-URL:http://radio2.sikhnet.com:8014/autodj
 https://radio.sikhnet.com/proxy/channel3stream_high_autodj
+
 #EXTINF:-1,24x7 Live Simran radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Simran
+#ALTERNATE-URL:http://radio2.sikhnet.com:8016/autodj
 https://radio.sikhnet.com/proxy/channel4stream_high_autodj
+
 #EXTINF:-1,Sri Akhand Path Sahib Radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Sri Akhand Paath Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8018/autodj
 https://radio.sikhnet.com/proxy/channel5/autodj
+
 #EXTINF:-1,Siri Guru Granth Sahib in English radio
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:Siri Guru Granth Sahib in English
+#ALTERNATE-URL:http://radio2.sikhnet.com:8028/autodj
 https://radio.sikhnet.com/proxy/sggsenglish/stream_high_autodj
+
 #EXTINF:-1,The Classics radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:The Classics
+#ALTERNATE-URL:http://radio2.sikhnet.com:8501/autodj
 https://radio.sikhnet.com/proxy/channel6/stream_high_autodj
+
 #EXTINF:-1,Gurbani Katha Punjabi radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurbani Katha - Punjabi
+#ALTERNATE-URL:http://radio2.sikhnet.com:8013/autodj
 https://radio.sikhnet.com/proxy/katha/autodj
+
 #EXTINF:-1,Gurbani Katha English radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurbani Katha - English
+#ALTERNATE-URL:http://radio2.sikhnet.com:8015/autodj
 https://radio.sikhnet.com/proxy/kathaenglish/stream_high_autodj
+
 #EXTINF:-1,Guru Stories English radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Sikh Stories
+#ALTERNATE-URL:http://radio2.sikhnet.com:8017/autodj
 https://radio.sikhnet.com/proxy/stories/autodj
+
 #EXTINF:-1,24x7 Live Khalsa FM radio
+#SOURCE-NAME:Khalsa FM
+#ALTERNATE-URL:http://198.178.123.8:7798
 http://s3.voscast.com:7798/
+
 #EXTINF:-1,takht sri Hazur Sahib Nanded maharashtra Live
+#SOURCE-NAME:Takht Sri Hazur Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8038/stream
 http://radio2.sikhnet.com:8038/live
+
 #EXTINF:-1,Gurdwara Sri Sis Ganj Sahib Delhi Live
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurdwara Sis Ganj Sahib
 http://radio2.sikhnet.com:8011/live
+
 #EXTINF:-1,Akhand Path sahib radio
+#CREDIT:Akhand Path Radio
+#SOURCE-NAME:Akhand Path Radio
+#ALTERNATE-URL:http://radio.punjabrocks.com:9968/akhand
 http://radio.punjabrocks.com:9968/
+
 #EXTINF:-1,24x7 Live Sikh Katha radio
+#CREDIT:Sikh Katha Radio
+#SOURCE-NAME:Sikh Katha Radio
 http://radio.punjabrocks.com:9978/katha
+
 #EXTINF:-1,24x7 Live Sikh Kirtan radio
+#CREDIT:Sikh Kirtan Radio
+#SOURCE-NAME:Sikh Kirtan Radio
 http://radio.punjabrocks.com:9958/kirtan
+
 #EXTINF:-1,Kirtan 24x7 radio
+#SOURCE-NAME:Guru Box Gurbani Kirtan radio
+#SOURCE-NAME:Gurbani Kirtan 24/7
 https://gurbanikirtan.radioca.st/start.mp3
+
 #EXTINF:-1,Kirtan Sewa radio
+#CREDIT:Official Kirtan Sewa Web Radio
+#SOURCE-NAME:Kirtan Sewa Web Radio
+#ALTERNATE-URL:http://stream.zenolive.com/8wr2nwecr9duv
 https://stream.zeno.fm/wpqdkwecr9duv
-#EXTINF:-1,24x7 Live Sukhmani sahib radio
-https://stream.zeno.fm/k25ew3ym46duv
+
 #EXTINF:-1,Radio Bani radio
+#CREDIT:Baani.Net
+#SOURCE-NAME:Baani.Net
 http://radio.baani.net:8019/stream
+
 #EXTINF:-1,Bhagti Rang radio
 https://stream.zeno.fm/wghxkv4sarzuv
-#EXTINF:-1,Mannat radio
+
+#EXTINF:-1,Jap Radio
+#SOURCE-NAME:Jap Radio
+#SOURCE-NAME:Mannat radio
 https://stream.zeno.fm/kpg9shh0kxquv
+
 #EXTINF:-1,Sachkhand Radio
 https://azura.shoutca.st/radio/8200/radio.mp3?1596071186
+
+#EXTINF:-1,Sri Harmandir Sahib
+#CREDIT:©SGPC
+https://live.sgpc.net:8442/; nocache=889869
+
+#EXTINF:-1,Gurudwara Nauvin Patshahi
+http://akalmultimedia.net:8000/gdnsjal
+
+#EXTINF:-1,G: Dasmesh Darbar Sahib
+http://s5.voscast.com:7316/
+
+#EXTINF:-1,G: Dashmesh Culture
+http://radio2.sikhnet.com:8030/live
+
+#EXTINF:-1,Guru Nanak Sikh Gurudwara
+http://s5.voscast.com:7370/
+
+#EXTINF:-1,Guru Nanak Gurdwara Smethwick
+https://gngsmethwick.out.airtime.pro/gngsmethwick_a
+
+#EXTINF:-1,Ontario Khalsa Darbar
+https://radio.sikhnet.com/accounts/okdarbar/live
+
+#EXTINF:-1,G. Singh Sabha Surrey
+#CREDIT:Sikhnet Radio
+http://radio2.sikhnet.com:8033/live
+
+#EXTINF:-1,Gurdwara Millwoods
+http://amritbani.streamon.fm:8000/amritbani-48k.aac
+
+#EXTINF:-1,Gurdwara Guru Teg Bahadur
+http://live.canstream.co.uk:8000/gurutegh.mp3
+
+#EXTINF:-1,Gurdwara Sahib Glenwood
+http://radio2.sikhnet.com:8047/live
+
+#EXTINF:-1,Brahm Bunga Sahib
+http://s8.voscast.com:8474/stream
+
+#EXTINF:-1,Radio Akal Ashram Sohana
+#CREDIT:Radio Akal Ashram Sohana
+http://radio.baani.net:8043/;stream.mp3?_=1
+
+#EXTINF:-1,Prabh Milne Ka Chaho
+http://cast1.asurahosting.com/proxy/gpmkc/stream
+
+#EXTINF:-1,Ratwara Sahib
+http://s8.myradiostream.com:15656/
+
+#EXTINF:-1,BaruNet
+http://s6.voscast.com:9832/;stream1455344835011/1
+
+#EXTINF:-1,Akal Multimedia Live 24/7
+http://kpanth.net:8000/srkan
+
+#EXTINF:-1,AKJ.Org Live Radio
+#CREDIT:AKJ.Org Live Radio
+http://kpanth.net:8000/akjdotorglive
+
+#EXTINF:-1,Giani Kulwant Singh Ji Ludhiana
+http://radio.gurbanisewa.org:8016/live
+
+#EXTINF:-1,Darbar Sri Guru Granth Sahib Ji
+http://192.184.9.81:8364
+
+#EXTINF:-1,G: Sri Guru Singh Sabha
+http://edge.akjradio.org:4242
+
+#EXTINF:-1,Sarab Rog Ka Aukhad Naam
+http://akalmultimedia.net:8000/srkan
+
+#EXTINF:-1,Guru Nanak Phulwari
+https://gnphulwari1.radioca.st/stream
+
+#EXTINF:-1,Sant Samagam
+http://radio-santsamagam.baani.net:8031/stream)
+
+#EXTINF:-1,Amrit Naam Kirtans
+http://ample-zeno-15.radiojar.com/8pafuczg408uv
+
+#EXTINF:-1,AKJ Radio
+http://listen.akjradio.org:3232/listen.mp3
+
+#EXTINF:-1,AKJ Radio 128kbps
+http://edge.akjradio.org:3232/128k
+
+#EXTINF:-1,Sri Dasam Granth Sahib
+#CREDIT:Station by Gurbani Sewa Radio
+http://radio.gurbanisewa.org:8006/live
+
+#EXTINF:-1,Sukhmani Sahib
+https://media.sikhnet.com/Parminder%20Singh%20(Australia)%20-%20Sukhmani%20Sahib%20Kirtan.mp3
+
+#EXTINF:-1,Radio Chardi Kala
+http://s5.voscast.com:7070/stream
+
+#EXTINF:-1,Radio Panj
+https://s3.voscast.com:11265/stream?1783133344240
+
+#EXTINF:-1,Sukh Sagar Radio
+http://edge-audio-02-gos1.sharp-stream.com/sukhsagar.mp3
+
+#EXTINF:-1,Punjabi Radio
+#CREDIT:Punjabi Radio USA
+http://198.178.123.5:7016
+
+#EXTINF:-1,Radio Haanji - Haanji Gurbani
+#CREDIT:The Best Radio Channel of Australia.
+http://cast1.my-control-panel.com:8016/stream/;
+
+#EXTINF:-1,Panth Radio
+https://stream.hostplanet.co.uk/panth.m3u
+
+#EXTINF:-1,Sher-e-Punjab Radio
+#CREDIT:Sher-e-Punjab Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC
+
+#EXTINF:-1,Sikh Nation Radio
+#CREDIT:www.SikhNation.TV
+http://s8.voscast.com:9366/;
+
+#EXTINF:-1,SikhWorld Live Radio
+#CREDIT:SikhWorld Live Radio
+http://s8.voscast.com:9630/
+
+#EXTINF:-1,XL Gurbani Radio
+http://rosetta.shoutca.st:8554/;
+
+#EXTINF:-1,Gurbani Radio
+http://s8.voscast.com:7024
+
+#EXTINF:-1,Sikh Videos Radio
+http://sikhvideos.org:8000/;stream.nsv
+
+#EXTINF:-1,NRI Radio
+http://162.244.80.106:11478/stream;
+
+#EXTINF:-1,Amrit Bani Radio
+https://us3.internet-radio.com/proxy/amritbaani?mp=/stream;
+
+#EXTINF:-1,Listen Gurbani
+#CREDIT:www.listengurbani.com
+https://listengurbani-ekamsoftware.radioca.st/stream
+
+#EXTINF:-1,Gurbani Radio
+#CREDIT:Gurbani Radio
+http://stream.zenolive.com/geztr4ksgtzuv
+
+#EXTINF:-1,Gurbani Kirtan
+#CREDIT:Bhagti World Media
+https://gurbani.out.airtime.pro:8000/gurbani_b
+
+#EXTINF:-1,Sri Sehaj Path Sahib 24/7
+https://live.deshpunjab.net:8443/gurbani
+
+#EXTINF:-1,Mehra Media Gurbani Radio
+#CREDIT:Mehra Media Gurbani Radio
+https://mehramedia.com:9020/stream
+#PLAYLIST:Sachkhand Kirtan Radio
+# Updated 2026-11-16 using the supplied Live Kirtan English-name catalog snapshot.
+# Source catalog: http://onlinekirtan.com/return_radio_channels.php?a=livekirtan
+# CREDIT values below reproduce source-supplied attribution only; they are not verified ownership or a reuse license.
+# No rights are granted by inclusion. Stream and artwork rights remain with their respective rights holders.
+# Existing channels are retained. Verified replacements update stale endpoints; alternate URLs are comments.
+# Availability is controlled by each provider. Playlist syntax checked; continuous playback is not guaranteed.
+
+#EXTINF:-1,Akath Katha Gurudawara Naam Simran Ghar Loharka Road Amritsar Live
+#SOURCE-NAME:Akath Katha
+https://cast1.asurahosting.com/proxy/akath/stream
+
+#EXTINF:-1,Sarab Sanjhi Gurbani 24/7 Berlin Germany Live
+#SOURCE-NAME:Sarab Sanjhi Gurbani 24/7
+https://live.deshpunjab.net:8443/stream
+
+#EXTINF:-1,Ehnis Naad Radio New Delhi India Live
+#SOURCE-NAME:Ehnis Naad Radio
+#ALTERNATE-URL:https://stream-57.zeno.fm/srmephm9bm8uv
+https://stream.zeno.fm/srmephm9bm8uv
+
+#EXTINF:-1,Chardi Kala Union City CA 94587 USA Live
+https://stream.zeno.fm/2bc48vrgnv5tv
+
+#EXTINF:-1,Radio Dhadrianwale 24x7 Bhai Ranjit Singh Ji Khalsa Dhadrianwale Live
+#SOURCE-NAME:Radio Dhadrianwale 24x7
+#ALTERNATE-URL:https://stream-172.zeno.fm/y5y59fwptqruv
+https://stream.zeno.fm/y5y59fwptqruv
+
+#EXTINF:-1,Gurbani Kavishri  24x7 Live
+https://stream.zeno.fm/y6pz5fqzwc9uv
+
+#EXTINF:-1,Sukhmani Sahib 24x7 Live
+https://stream.zeno.fm/k25ew3ym46duv
+
+#EXTINF:-1,Malhans Gurbani Toronto Canada Live
+#SOURCE-NAME:Malhans Gurbani
+#ALTERNATE-URL:http://ample-zeno-15.radiojar.com/yzpgrmgyyp8uv
+https://stream.zeno.fm/yzpgrmgyyp8uv
+
+#EXTINF:-1,Shabad Kirtan gurbani 24x7 Live
+https://stream.zeno.fm/tn3xn4qany8uv
+
+#EXTINF:-1,Mool Mantra 24x7 Live
+#SOURCE-NAME:Mool Mantra 24x7 - NSF
+#ALTERNATE-URL:https://stream-54.zeno.fm/9ex8sg0v91zuv
+https://stream.zeno.fm/9ex8sg0v91zuv
+
+#EXTINF:-1,GS  Radio amritsar Live
+https://stream.zeno.fm/su7sd7zbkgutv
+
+#EXTINF:-1,Darvar sahib UK
+https://s6.autopo.st/proxy/darbarsahibradio_out?mp=/stream
+
+#EXTINF:-1,Jawaddi Taksall
+#SOURCE-NAME:Radio Jawaddi Taksal
+http://akalmultimedia.net:8000/jawadditaksal
+
+#EXTINF:-1,Dukh Bhanjini Sahib
+#SOURCE-NAME:Dukh Bhanjani Sahib
+#ALTERNATE-URL:http://stream.zeno.fm/294tvsb8p98uv
+https://stream.zeno.fm/67rmrsb8p98uv
+
+#EXTINF:-1,Bhai Harjinder Singh Ji sri nagar wale radio
+#SOURCE-NAME:Bhai Harjinder Singh Ji
+https://stream.zeno.fm/fmq5eeece78uv
+
+#EXTINF:-1,Gurbani World
+https://stream.zeno.fm/aagsz1mfd78uv
+
+#EXTINF:-1,Live Gurbani Radio
+#SOURCE-NAME:Live Gurbani Radio
+#SOURCE-NAME:Jap Radio
+#ALTERNATE-URL:http://stream.zenolive.com/r3m0whh0kxquv
+https://stream.zeno.fm/r3m0whh0kxquv
+
+#EXTINF:-1,Radio Dodra Live
+https://s8.voscast.com:8475/stream
+
+#EXTINF:-1,Amritvela trust
+http://usa2.fastcast4u.com:3354/stream
+
+#EXTINF:-1,Sachkhand Sri harmander sahib amritsar punjab
+#CREDIT:©SGPC
+#SOURCE-NAME:Sri Harmandir Sahib (HD-2)
+#ALTERNATE-URL:https://live.sgpc.net:8443/stream/1/
+https://live.sgpc.net:8443/;
+
+#EXTINF:-1,Saadh Sangat Radio
+#CREDIT:radiododra.com
+#SOURCE-NAME:Sadh Sangat Samagams
+#SOURCE-NAME:Radio Dodra 2
+#ALTERNATE-URL:http://usa13.fastcast4u.com:5386/stream?
+http://usa13.fastcast4u.com:5386/stream
+
+#EXTINF:-1,Sachkhand Sri Harimandir Sahib HD
+#CREDIT:©SGPC
+#SOURCE-NAME:Sri Harmandir Sahib (HD-1)
+#SOURCE-NAME:Sri Harmandir Sahib  HD-3
+https://radio.sikhnet.com/proxy/channel9/live
+
+#EXTINF:-1,Gurudwara Dukh Niwaran Sahib Ludhiana
+#SOURCE-NAME:Dukh Niwaran Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8022/live
+https://radio.sikhnet.com/proxy/channel10/live
+
+#EXTINF:-1,Gurudwara Bangla Sahib new Delhi
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurdwara Bangla Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8050/live
+https://radio.sikhnet.com/proxy/gbanglasahib/live
+
+#EXTINF:-1,Dukh Nivaran Sahib Surrey Canada
+#SOURCE-NAME:G: Dukh Nivaran Sahib
+#ALTERNATE-URL:http://162.244.80.52:5294/stream
+https://radio.sikhnet.com/proxy/channel23/live
+
+#EXTINF:-1,Gurudwara Live Fremont USA
+#SOURCE-NAME:Gurdwara Sahib Fremont
+#ALTERNATE-URL:http://s3.voscast.com:7408/
+https://radio.sikhnet.com/proxy/channel13/live
+
+#EXTINF:-1,Gurudwara San Jose USA
+#SOURCE-NAME:Gurdwara San Jose
+#ALTERNATE-URL:http://radio2.sikhnet.com:8031/stream
+https://radio.sikhnet.com/proxy/channel18/live
+
+#EXTINF:-1,Western Singh Sabha Canada
+#CREDIT:Sikhnet
+#SOURCE-NAME:Western Singh Sabha
+#ALTERNATE-URL:https://radio.sikhnet.com/accounts/channel16/live
+https://radio.sikhnet.com/proxy/channel16/live
+
+#EXTINF:-1,Sukh Sagar Canada
+#SOURCE-NAME:G: Sukh Sagar
+#ALTERNATE-URL:http://radio2.sikhnet.com:8023/live
+https://radio.sikhnet.com/proxy/channel11/live
+
+#EXTINF:-1,Hacienda De Guru Ram Das New Maxico USA
+#SOURCE-NAME:Hacienda De Guru Ram Das
+#ALTERNATE-URL:http://radio2.sikhnet.com:8024/live
+https://radio.sikhnet.com/proxy/channel12/live
+
+#EXTINF:-1,Singh Sabha Washington USA
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:G. Singh Sabha Washington
+#ALTERNATE-URL:http://radio2.sikhnet.com:8032/live
+https://radio.sikhnet.com/proxy/channel19/live
+
+#EXTINF:-1,Siri Guru Singh Sabha Derby UK
+https://radio.sikhnet.com/proxy/channel24/live
+
+#EXTINF:-1,Nanak Naam Jahaj New Jersey USA
+#SOURCE-NAME:Gurudwara Nanak Naam Jahaj
+#ALTERNATE-URL:https://radio.sikhnet.com/accounts/channel26/live
+https://radio.sikhnet.com/proxy/channel26/live
+
+#EXTINF:-1,EI Sobrante Calofornia USA
+https://radio.sikhnet.com/proxy/channel27/live
+
+#EXTINF:-1,Stockton Sikh Temple California USA
+#SOURCE-NAME:Stockton Gurdwara Sahib
+#ALTERNATE-URL:http://live.stocktongurdwarasahib.org:8000/audio
+https://radio.sikhnet.com/proxy/channel29/live
+
+#EXTINF:-1,Sri Guru singh Sabha Malton Canada
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:G. Sri Guru Singh Sabha Malton
+#ALTERNATE-URL:http://radio2.sikhnet.com:8039/live
+https://radio.sikhnet.com/proxy/channel30ive
+
+#EXTINF:-1,Gurudwara Sahib West Sacramento Canada
+#SOURCE-NAME:Gurdwara Sahib West Sacramento
+#ALTERNATE-URL:http://ample-04.radiojar.com/65wfczc3kd5tv
+https://radio.sikhnet.com/proxy/wsacramento/live
+
+#EXTINF:-1,Gurudwara Singh Sabha L A
+https://radio.sikhnet.com/proxy/ssbuenapark/live
+
+#EXTINF:-1,Guru Nanak Dwara Arizona USA
+https://radio.sikhnet.com/proxy/gurunanakdwara/live
+
+#EXTINF:-1,All Gurbani Styles radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Mixed Gurbani
+#ALTERNATE-URL:http://radio2.sikhnet.com:8010/stream
+https://radio.sikhnet.com/proxy/channel1/stream_high_autodj
+
+#EXTINF:-1,Western I Non Traditional radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Western - Non Traditional
+#ALTERNATE-URL:http://radio2.sikhnet.com:8012/autodj
+https://radio.sikhnet.com/proxy/channel2/stream_high_autodj
+
+#EXTINF:-1,Classical Raag radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Classical Raag
+#ALTERNATE-URL:https://radio.sikhnet.com/proxy/channel3stream_high_autodj
+http://radio2.sikhnet.com:8014/autodj
+
+#EXTINF:-1,24x7 Live Simran radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Simran
+#ALTERNATE-URL:https://radio.sikhnet.com/proxy/channel4stream_high_autodj
+http://radio2.sikhnet.com:8016/autodj
+
+#EXTINF:-1,Sri Akhand Path Sahib Radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Sri Akhand Paath Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8018/autodj
+https://radio.sikhnet.com/proxy/channel5/autodj
+
+#EXTINF:-1,Siri Guru Granth Sahib in English radio
+#CREDIT:Sikhnet Radio
+#SOURCE-NAME:Siri Guru Granth Sahib in English
+#ALTERNATE-URL:http://radio2.sikhnet.com:8028/autodj
+https://radio.sikhnet.com/proxy/sggsenglish/stream_high_autodj
+
+#EXTINF:-1,The Classics radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:The Classics
+#ALTERNATE-URL:http://radio2.sikhnet.com:8501/autodj
+https://radio.sikhnet.com/proxy/channel6/stream_high_autodj
+
+#EXTINF:-1,Gurbani Katha Punjabi radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurbani Katha - Punjabi
+#ALTERNATE-URL:http://radio2.sikhnet.com:8013/autodj
+https://radio.sikhnet.com/proxy/katha/autodj
+
+#EXTINF:-1,Gurbani Katha English radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurbani Katha - English
+#ALTERNATE-URL:http://radio2.sikhnet.com:8015/autodj
+https://radio.sikhnet.com/proxy/kathaenglish/stream_high_autodj
+
+#EXTINF:-1,Guru Stories English radio
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Sikh Stories
+#ALTERNATE-URL:http://radio2.sikhnet.com:8017/autodj
+https://radio.sikhnet.com/proxy/stories/autodj
+
+#EXTINF:-1,24x7 Live Khalsa FM radio
+#SOURCE-NAME:Khalsa FM
+#ALTERNATE-URL:http://198.178.123.8:7798
+http://s3.voscast.com:7798/
+
+#EXTINF:-1,takht sri Hazur Sahib Nanded maharashtra Live
+#SOURCE-NAME:Takht Sri Hazur Sahib
+#ALTERNATE-URL:http://radio2.sikhnet.com:8038/stream
+http://radio2.sikhnet.com:8038/live
+
+#EXTINF:-1,Gurdwara Sri Sis Ganj Sahib Delhi Live
+#CREDIT:SikhNet Radio
+#SOURCE-NAME:Gurdwara Sis Ganj Sahib
+http://radio2.sikhnet.com:8011/live
+
+#EXTINF:-1,Akhand Path sahib radio
+#CREDIT:Akhand Path Radio
+#SOURCE-NAME:Akhand Path Radio
+#ALTERNATE-URL:http://radio.punjabrocks.com:9968/akhand
+http://radio.punjabrocks.com:9968/
+
+#EXTINF:-1,24x7 Live Sikh Katha radio
+#CREDIT:Sikh Katha Radio
+#SOURCE-NAME:Sikh Katha Radio
+http://radio.punjabrocks.com:9978/katha
+
+#EXTINF:-1,24x7 Live Sikh Kirtan radio
+#CREDIT:Sikh Kirtan Radio
+#SOURCE-NAME:Sikh Kirtan Radio
+http://radio.punjabrocks.com:9958/kirtan
+
+#EXTINF:-1,Kirtan 24x7 radio
+#SOURCE-NAME:Gurbani Kirtan 24/7
+https://gurbanikirtan.radioca.st/start.mp3
+
+#EXTINF:-1,Kirtan Sewa radio
+#CREDIT:Official Kirtan Sewa Web Radio
+#SOURCE-NAME:Kirtan Sewa Web Radio
+#ALTERNATE-URL:http://stream.zenolive.com/8wr2nwecr9duv
+https://stream.zeno.fm/wpqdkwecr9duv
+
+#EXTINF:-1,24x7 Live Sukhmani sahib radio
+https://stream.zeno.fm/k25ew3ym46duv
+
+#EXTINF:-1,Radio Bani radio
+#CREDIT:Baani.Net
+#SOURCE-NAME:Baani.Net
+http://radio.baani.net:8019/stream
+
+#EXTINF:-1,Bhagti Rang radio
+https://stream.zeno.fm/wghxkv4sarzuv
+
+#EXTINF:-1,Jap Radio
+#SOURCE-NAME:Jap Radio
+#SOURCE-NAME:Mannat radio
+https://stream.zeno.fm/kpg9shh0kxquv
+
+#EXTINF:-1,Sachkhand Radio
+https://azura.shoutca.st/radio/8200/radio.mp3?1596071186
+
 #EXTINF:-1,Guru Box Gurbani Kirtan radio
 https://gurbanikirtan.radioca.st/start.mp3
+
+#EXTINF:-1,Sri Harmandir Sahib
+#CREDIT:©SGPC
+#ALTERNATE-URL:https://live.sgpc.net:8442/; nocache=889869
+https://live.sgpc.net:8442/;%20nocache=889869
+
+#EXTINF:-1,Gurudwara Nauvin Patshahi
+http://akalmultimedia.net:8000/gdnsjal
+
+#EXTINF:-1,G: Dasmesh Darbar Sahib
+http://s5.voscast.com:7316/
+
+#EXTINF:-1,G: Dashmesh Culture
+http://radio2.sikhnet.com:8030/live
+
+#EXTINF:-1,Guru Nanak Sikh Gurudwara
+http://s5.voscast.com:7370/
+
+#EXTINF:-1,Guru Nanak Gurdwara Smethwick
+https://gngsmethwick.out.airtime.pro/gngsmethwick_a
+
+#EXTINF:-1,Ontario Khalsa Darbar
+https://radio.sikhnet.com/accounts/okdarbar/live
+
+#EXTINF:-1,G. Singh Sabha Surrey
+#CREDIT:Sikhnet Radio
+http://radio2.sikhnet.com:8033/live
+
+#EXTINF:-1,Gurdwara Millwoods
+http://amritbani.streamon.fm:8000/amritbani-48k.aac
+
+#EXTINF:-1,Gurdwara Guru Teg Bahadur
+http://live.canstream.co.uk:8000/gurutegh.mp3
+
+#EXTINF:-1,Gurdwara Sahib Glenwood
+http://radio2.sikhnet.com:8047/live
+
+#EXTINF:-1,Brahm Bunga Sahib
+http://s8.voscast.com:8474/stream
+
+#EXTINF:-1,Radio Akal Ashram Sohana
+#CREDIT:Radio Akal Ashram Sohana
+http://radio.baani.net:8043/;stream.mp3?_=1
+
+#EXTINF:-1,Prabh Milne Ka Chaho
+http://cast1.asurahosting.com/proxy/gpmkc/stream
+
+#EXTINF:-1,Ratwara Sahib
+http://s8.myradiostream.com:15656/
+
+#EXTINF:-1,BaruNet
+http://s6.voscast.com:9832/;stream1455344835011/1
+
+#EXTINF:-1,Akal Multimedia Live 24/7
+http://kpanth.net:8000/srkan
+
+#EXTINF:-1,AKJ.Org Live Radio
+#CREDIT:AKJ.Org Live Radio
+http://kpanth.net:8000/akjdotorglive
+
+#EXTINF:-1,Giani Kulwant Singh Ji Ludhiana
+http://radio.gurbanisewa.org:8016/live
+
+#EXTINF:-1,Darbar Sri Guru Granth Sahib Ji
+http://192.184.9.81:8364
+
+#EXTINF:-1,G: Sri Guru Singh Sabha
+http://edge.akjradio.org:4242
+
+#EXTINF:-1,Sarab Rog Ka Aukhad Naam
+http://akalmultimedia.net:8000/srkan
+
+#EXTINF:-1,Guru Nanak Phulwari
+https://gnphulwari1.radioca.st/stream
+
+#EXTINF:-1,Sant Samagam
+http://radio-santsamagam.baani.net:8031/stream)
+
+#EXTINF:-1,Amrit Naam Kirtans
+http://ample-zeno-15.radiojar.com/8pafuczg408uv
+
+#EXTINF:-1,AKJ Radio
+http://listen.akjradio.org:3232/listen.mp3
+
+#EXTINF:-1,AKJ Radio 128kbps
+http://edge.akjradio.org:3232/128k
+
+#EXTINF:-1,Sri Dasam Granth Sahib
+#CREDIT:Station by Gurbani Sewa Radio
+http://radio.gurbanisewa.org:8006/live
+
+#EXTINF:-1,Sukhmani Sahib
+https://media.sikhnet.com/Parminder%20Singh%20(Australia)%20-%20Sukhmani%20Sahib%20Kirtan.mp3
+
+#EXTINF:-1,Radio Chardi Kala
+http://s5.voscast.com:7070/stream
+
+#EXTINF:-1,Radio Panj
+https://s3.voscast.com:11265/stream?1783133344240
+
+#EXTINF:-1,Sukh Sagar Radio
+http://edge-audio-02-gos1.sharp-stream.com/sukhsagar.mp3
+
+#EXTINF:-1,Punjabi Radio
+#CREDIT:Punjabi Radio USA
+http://198.178.123.5:7016
+
+#EXTINF:-1,Radio Haanji - Haanji Gurbani
+#CREDIT:The Best Radio Channel of Australia.
+http://cast1.my-control-panel.com:8016/stream/;
+
+#EXTINF:-1,Panth Radio
+https://stream.hostplanet.co.uk/panth.m3u
+
+#EXTINF:-1,Sher-e-Punjab Radio
+#CREDIT:Sher-e-Punjab Radio
+http://playerservices.streamtheworld.com/api/livestream-redirect/KRPIAM_SC
+
+#EXTINF:-1,Sikh Nation Radio
+#CREDIT:www.SikhNation.TV
+http://s8.voscast.com:9366/;
+
+#EXTINF:-1,SikhWorld Live Radio
+#CREDIT:SikhWorld Live Radio
+http://s8.voscast.com:9630/
+
+#EXTINF:-1,XL Gurbani Radio
+http://rosetta.shoutca.st:8554/;
+
+#EXTINF:-1,Gurbani Radio
+http://s8.voscast.com:7024
+
+#EXTINF:-1,Sikh Videos Radio
+http://sikhvideos.org:8000/;stream.nsv
+
+#EXTINF:-1,NRI Radio
+http://162.244.80.106:11478/stream;
+
+#EXTINF:-1,Amrit Bani Radio
+https://us3.internet-radio.com/proxy/amritbaani?mp=/stream;
+
+#EXTINF:-1,Listen Gurbani
+#CREDIT:www.listengurbani.com
+https://listengurbani-ekamsoftware.radioca.st/stream
+
+#EXTINF:-1,Gurbani Radio
+#CREDIT:Gurbani Radio
+http://stream.zenolive.com/geztr4ksgtzuv
+
+#EXTINF:-1,Gurbani Kirtan
+#CREDIT:Bhagti World Media
+https://gurbani.out.airtime.pro:8000/gurbani_b
+
+#EXTINF:-1,Sri Sehaj Path Sahib 24/7
+https://live.deshpunjab.net:8443/gurbani
+
+#EXTINF:-1,Mehra Media Gurbani Radio
+#CREDIT:Mehra Media Gurbani Radio
+https://mehramedia.com:9020/stream
+
+#EXTINF:-1,Gurkibani Radio
+https://s2.myradiostream.com/5262/listen.mp3
+
+#EXTINF:-1,Punjabi Junction Radio
+#CREDIT:Punjabi Junction Radio
+http://akalmultimedia.net:8000/GDNSLDH
+
+#EXTINF:-1,Sikh Touch Radio
+#CREDIT:Sikh Touch Radio
+http://sirius.shoutca.st:8859
+
+#EXTINF:-1,Sikhbytes Radio
+#CREDIT:Sikhbytes Radio
+https://stream.radiojar.com/0nywm872sz4tv
+
+#EXTINF:-1,Radio Singh Stream
+#CREDIT:http://radiosingh.com
+http://192.99.170.8:5808/;stream/1
+
+#EXTINF:-1,Radio Eknoor
+#CREDIT:Radio Eknoor
+http://my.radiodap.ca:1313
+
+#EXTINF:-1,Gurbani Sewa
+http://radio.gurbanisewa.org:8000/live
+
+#EXTINF:-1,Sach Khoj Radio
+#CREDIT:Sach Khoj Radio
+http://s4.voscast.com:7628/
+
+#EXTINF:-1,Sikh Within Radio
+#CREDIT:Sikh Within Radio
+http://s6.voscast.com:8020
+
+#EXTINF:-1,Singh Naad Radio
+#CREDIT:Singh Naad Radio
+http://s8.voscast.com:9366
+
+#EXTINF:-1,Akal Radio
+http://s8.voscast.com:9724
+
+#EXTINF:-1,Naujawani Radio
+#CREDIT:Online Radio 24/7
+http://iradio.naujawani.com/proxy/naujawani?mp=/naujawani
+
+#EXTINF:-1,Punjab Radio
+#CREDIT:Punjab Radio UK
+http://s1.voscast.com:7918
+
+#EXTINF:-1,Radio Tawprasad
+http://tawprasad.baani.net:8037/stream
+
+#EXTINF:-1,Radio Punjab
+http://69.175.94.98:8185
+
+#EXTINF:-1,Radio Jivan Janch
+http://108.163.223.242:8062/;
+
+#EXTINF:-1,Radio Chann Pardesi
+http://ice.mehramedia.com:8763/gurbani
+
+#EXTINF:-1,Rozana Ek Shabad
+#CREDIT:Sikh Studio Radio
+http://stream.zenolive.com/fcm06zunwueuv
